@@ -5,12 +5,12 @@ p {
 }
 
 body {
-	color: black;
-	background-color: SlateBlue;
+	color: #4f0a0a;
+	background-color: White;
 }
 
 h1 {
 	border-style: dotted;
 	border-width: 10px 5px 10px 5px;
-	border-color: white
+	border-color:#4f0a0a
 }
