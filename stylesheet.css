@@ -5,14 +5,14 @@ p {
 }
 
 body {
-	color: #4f0a0a;
+	color: #20b2aa;
 	background-color: White;
 }
 
 h1 {
 	border-style: dotted;
 	border-width: 10px 5px 10px 5px;
-	border-color:#4f0a0a
+	border-color: #20b2aa;
 }
 
 ul {
